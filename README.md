@@ -1,5 +1,5 @@
 #  Saluton! Eu sou o Yan :sunglasses:
-### Desenvolvedor Frontend (no futuro, serei Fullstack :thumbsup:)
+### Desenvolvedor Frontend (em breve, serei Fullstack :thumbsup:)
 
 </br>
 
