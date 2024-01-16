@@ -27,3 +27,7 @@
 - :pushpin:  **Meta atual**: obter experiência no processo de produção de soluções tecnológicas (problematização, planejamento da solução e execução da solução)
 - :jigsaw: **Soft skills**: calmo em todos os momentos (até nos de pressão), otimista (com moderação), organizado (sem exagero), humor simples (dou risada com facilidade), sociável (se quiser conversar, sou todo ouvidos), versátil (se eu não souber fazer algo, eu aprendo a fazê-lo)
 - :art: **Hobbies**: escrever novels, jogar xadrez e desenvolver jogos
+
+## Contato
+
+**email:** yanrei69@gmail.com
