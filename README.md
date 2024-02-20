@@ -25,7 +25,7 @@
 
 - :calendar: Desde 2023 trabalhando para ser um desenvolvedor de soluções completo, não apenas um programador
 - :pushpin:  **Meta atual**: obter experiência no processo de produção de soluções tecnológicas (problematização, planejamento da solução e execução da solução)
-- :jigsaw: **Soft skills**: calmo em todos os momentos (até nos de pressão), otimista (com moderação), organizado (sem exagero), humor simples (dou risada com facilidade), sociável (se quiser conversar, sou todo ouvidos), versátil (se eu não souber fazer algo, eu aprendo a fazê-lo)
+- :jigsaw: **Soft skills**: Comunicativo (não tenho medo de me expressar); Eficiente no trabalho em equipe; Empático; otimista (com moderação); organizado; Adaptável (se eu não souber fazer algo, eu aprendo a fazê-lo).
 - :art: **Hobbies**: escrever novels, jogar xadrez e desenvolver jogos
 
 ## Contato
