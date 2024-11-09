@@ -23,10 +23,10 @@
 
 </br>
 
-- :calendar: Desde 2023 trabalhando para ser um desenvolvedor de soluções completo, não apenas um programador
-- :pushpin:  **Meta atual**: entregar resultados cada vez melhores para minha empresa
+- :calendar: Desde 2023 trabalhando para ser um desenvolvedor de soluções completo, não apenas um programador.
+- :pushpin:  **Meta atual**: entregar resultados cada vez melhores para minha empresa.
 - :jigsaw: **Soft skills**: Corajoso (para evoluir, gosto de aceitar desafios); Comunicativo (não tenho medo de me expressar); Eficiente no trabalho em equipe; Empático; Otimista (com moderação); Disciplinado; Adaptável (se eu não souber fazer algo, eu aprendo a fazê-lo).
-- :art: **Hobbies**: escrever novels e jogar xadrez
+- :art: **Hobbies**: escrever novels e jogar xadrez.
 
 ## Contato
 
