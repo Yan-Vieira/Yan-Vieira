@@ -1,5 +1,5 @@
 #  Saluton! Eu sou o Yan :sunglasses:
-### Desenvolvedor Frontend (em breve, serei Fullstack :thumbsup:)
+### Começando na carreira de desenvolvedor de soluções de TI
 
 </br>
 
@@ -24,9 +24,9 @@
 </br>
 
 - :calendar: Desde 2023 trabalhando para ser um desenvolvedor de soluções completo, não apenas um programador
-- :pushpin:  **Meta atual**: obter experiência no processo de produção de soluções tecnológicas (problematização, planejamento da solução e execução da solução)
-- :jigsaw: **Soft skills**: Comunicativo (não tenho medo de me expressar); Eficiente no trabalho em equipe; Empático; otimista (com moderação); organizado; Adaptável (se eu não souber fazer algo, eu aprendo a fazê-lo).
-- :art: **Hobbies**: escrever novels, jogar xadrez e desenvolver jogos
+- :pushpin:  **Meta atual**: entregar resultados cada vez melhores para minha empresa
+- :jigsaw: **Soft skills**: Corajoso (para evoluir, gosto de aceitar desafios); Comunicativo (não tenho medo de me expressar); Eficiente no trabalho em equipe; Empático; Otimista (com moderação); Disciplinado; Adaptável (se eu não souber fazer algo, eu aprendo a fazê-lo).
+- :art: **Hobbies**: escrever novels e jogar xadrez
 
 ## Contato
 
